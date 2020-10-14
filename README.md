@@ -1,12 +1,12 @@
 # AnalystLogFirewallWindows
-<<<<<<< HEAD
 usage: analystFirewallLog.py [-h] [--filename FILENAME] [--action ACTION]  
 Option  
 optional arguments:  
-  -h, --help           show this help message and exit  
-  --filename FILENAME  
-  --action ACTION  
-For example: python3.7 analystFirewallLog.py --filename pfirewall.log --action ALLOW  
+        - -h, --help           show this help message and exit  
+        - --filename FILENAME  
+        - --action ACTION  
+# For example:  
+python3.7 analystFirewallLog.py --filename pfirewall.log --action ALLOW  
 Source IP: 192.168.6.81 -> Destination IP: 103.216.121.174  
 Source IP: 192.168.6.81 -> Destination IP: 8.8.8.8  
 Source IP: 192.168.6.81 -> Destination IP: 103.216.122.48  
@@ -30,5 +30,3 @@ Source IP: 192.168.6.81 -> Destination IP: 216.58.199.10
 Source IP: 192.168.6.81 -> Destination IP: 216.58.221.228  
 Source IP: 192.168.6.81 -> Destination IP: 101.99.3.83  
 
-=======
->>>>>>> accd77f59b1873685d9db08d53b980f0bab843d9
