@@ -1,4 +1,5 @@
 # AnalystLogFirewallWindows
+<<<<<<< HEAD
 usage: analystFirewallLog.py [-h] [--filename FILENAME] [--action ACTION]  
 Option  
 optional arguments:  
@@ -29,3 +30,5 @@ Source IP: 192.168.6.81 -> Destination IP: 216.58.199.10
 Source IP: 192.168.6.81 -> Destination IP: 216.58.221.228  
 Source IP: 192.168.6.81 -> Destination IP: 101.99.3.83  
 
+=======
+>>>>>>> accd77f59b1873685d9db08d53b980f0bab843d9
